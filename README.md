@@ -1,9 +1,10 @@
 # Basics-react
 
-Just simple React pages, Just you can copy paste all the react code into your App.jsx file. Choose any file you like and then change replace the file with any of the file
+Just simple React pages, Just you can copy paste all the react code into your App.jsx file. Choose any file you like and then change replace the file with any of the file.
 
-The files that I have created
+# Files Created
 
+1) DropDownQuery.jsx : - This feature implements an interactive Q&A or FAQ section. Users can click on titles to reveal detailed information about various services, features, and company vision. It provides a clean, organized way to present information without overwhelming the user, allowing them to focus on topics they're most interested in.
 
 
 # Vite and Tailwind CSS Setup
