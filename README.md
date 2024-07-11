@@ -1,6 +1,6 @@
 # Basics-react
 
-Just simple React pages, Just you can copy paste all the react code into your App.jsx file. Choose any file you like and then change replace the file with any of the file.
+Just simple React pages, Just you can copy paste all the react code into your App.jsx file. Choose any file you like and then change replace the app.jsx with any of the file you choose from this repo.
 
 # Files Created
 
