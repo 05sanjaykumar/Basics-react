@@ -5,6 +5,7 @@ Just simple React pages, Just you can copy paste all the react code into your Ap
 # Files Created
 
 1) DropDownQuery.jsx : - This feature implements an interactive Q&A or FAQ section. Users can click on titles to reveal detailed information about various services, features, and company vision. It provides a clean, organized way to present information without overwhelming the user, allowing them to focus on topics they're most interested in.
+2) SieBarToggle.jsx - This React component implements a responsive sidebar navigation with smooth transitions. It features a collapsible sidebar, a toggle button, and a main content area that adjusts based on the sidebar's state, enhancing user experience across devices.
 
 
 # Vite and Tailwind CSS Setup
